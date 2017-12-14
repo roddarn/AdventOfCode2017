@@ -1,4 +1,4 @@
-import '../Dec10/knowHash.dart';
+import '../Dec10/knotHash.dart';
 
 String input = 'hwlqcszp';
 //String input = 'flqrgnkx';
